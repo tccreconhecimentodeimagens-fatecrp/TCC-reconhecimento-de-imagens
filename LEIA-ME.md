@@ -1,10 +1,11 @@
 # TCC-reconhecimento-de-imagens
 TCC reconhecimento de imagens, FATEC Ribeirão Preto
 
-Este projeto foi programado para rodar no ambiente de execução Google Colab Link do notebook colab original: 
+Este projeto foi programado para rodar no ambiente de execução Google Colab 
+Link do notebook colab original: 
 https://colab.research.google.com/drive/1-Y09ZhLMQ2oo08p9WeEW4vCt8pfgcdfz
 
-Link para o download dos arquivos necessários (precisar ser enviados para o google drive para o funcionamento do código):
+Link para o download dos arquivos necessários (precisam ser enviados para o google drive para o funcionamento do código):
 videos prontos.zip:
 https://drive.google.com/file/d/1Y4eWcSjjdKWc3i3x7BL5jhQO3uVOj4TV/view?usp=sharing
 
