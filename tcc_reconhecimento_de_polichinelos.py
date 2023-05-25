@@ -90,7 +90,7 @@ frame.shape # Retorna as resluções do vídeo em altura, largura, e cores (RGB)
 
 modelo = cv2.dnn.readNetFromCaffe(arquivo_proto, arquivo_pesos)
 
-"""### Definindo os parâmetros para verificação dos plichinelos e Exibindo os resultados"""
+"""### Definindo os parâmetros para verificação dos polichinelos e Exibindo os resultados"""
 
 limite = 0.1
 while (cv2.waitKey(1) < 0):
